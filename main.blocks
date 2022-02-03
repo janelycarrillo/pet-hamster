@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="TCcWk!2s_zrnxN~-MS6b" x="252" y="-538"><statement name="HANDLER"><block type="device_show_leds" id="_aNR8u89[Fyl/N#6NMa:"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # # . . 
+        . . # # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="3_E|{Wz9K`8(vJ!n|2v7"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # # . 
+        . # # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="boQes|V~ER_2!BP7YGUI"><field name="LEDS">`
+        . . . . . 
+        . # # . . 
+        . . # # . 
+        . # . # . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="D{`rcrdsG~9Y:wtAa*oQ"><field name="LEDS">`
+        # # . . # 
+        . . . . . 
+        . . # # . 
+        . # # . . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="=%Swq_:C5}^=kw^H98N,"><field name="LEDS">`
+        # . . # # 
+        . . . . . 
+        . . # # . 
+        . # # . . 
+        . # . # .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="{lO8Kr)9sNkz=vhhwYS`" x="0" y="0"/></xml>
